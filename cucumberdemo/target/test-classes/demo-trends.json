@@ -1,0 +1,16 @@
+{
+  "buildNumbers" : [ "101", "101", "101", "101", "101", "101", "101" ],
+  "passedFeatures" : [ 0, 0, 0, 0, 0, 0, 0 ],
+  "failedFeatures" : [ 1, 1, 1, 1, 1, 1, 1 ],
+  "totalFeatures" : [ 1, 1, 1, 1, 1, 1, 1 ],
+  "passedScenarios" : [ 0, 0, 0, 0, 0, 0, 0 ],
+  "failedScenarios" : [ 2, 1, 1, 1, 1, 1, 1 ],
+  "totalScenarios" : [ 2, 1, 1, 1, 1, 1, 1 ],
+  "passedSteps" : [ 2, 0, 0, 0, 0, 0, 0 ],
+  "failedSteps" : [ 2, 0, 0, 1, 0, 0, 0 ],
+  "skippedSteps" : [ 3, 4, 4, 3, 4, 4, 4 ],
+  "pendingSteps" : [ 0, 0, 0, 0, 0, 0, 0 ],
+  "undefinedSteps" : [ 0, 0, 0, 0, 0, 0, 0 ],
+  "totalSteps" : [ 7, 4, 4, 4, 4, 4, 4 ],
+  "durations" : [ 9497879700, 0, 0, 12135664700, 0, 0, 0 ]
+}
